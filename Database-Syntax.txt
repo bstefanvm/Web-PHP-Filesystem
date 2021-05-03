@@ -1,0 +1,8 @@
+CREATE TABLE gallery_images (
+		ImageID INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+		ImageName VARCHAR(180) NOT NULL,
+		ImageTitle VARCHAR(240) NOT NULL,
+		ImageDescription MEDIUMTEXT NOT NULL,
+		ImageInfo VARCHAR(80) NOT NULL,
+		ImageUploadedDate TIMESTAMP NOT NULL
+);
