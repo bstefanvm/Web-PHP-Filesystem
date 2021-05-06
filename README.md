@@ -1,3 +1,3 @@
 # PHP Website with Gallery
 
-## PHP Web with Image Gallery within filesystem.
+## PHP Web with Image Gallery used filesystem.
