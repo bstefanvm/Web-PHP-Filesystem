@@ -1,3 +1,3 @@
-# PHP Website with Image Gallery
+# PHP Website with Gallery
 
-## This project is worked in virtual machine.
+## PHP Web with Image Gallery within filesystem.
